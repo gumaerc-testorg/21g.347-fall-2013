@@ -79,7 +79,7 @@ Benacquista, Tonino. "Transfert." In _La boîte noire et autres nouvelles_. Foli
 Séance III. Transmettre : l'après 1989
 {{< tdclose >}}
 {{< tdopen >}}
-Projection: _{{% resource_link "be9d3e59-bd1d-4df7-a12b-0fcc6629cfdd" "Ma saison préférée" %}}._ André Téchiné. 127 min. 1993.
+Projection: _[Ma saison préférée](http://www.imdb.com/title/tt0107471/?ref_=fn_al_tt_1)._ André Téchiné. 127 min. 1993.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ Séance V. La mémoire et son devoir
 Séance VI. La famille réinventée
 {{< tdclose >}}
 {{< tdopen >}}
-Projection: _{{% resource_link "ef1b09f2-58bf-44fc-8e24-0145d8a4be85" "Un air de famille" %}}._ Agnès Jaoui_._ Black & White, 27 min. 1963.
+Projection: _[Un air de famille](http://www.imdb.com/title/tt0271851/?ref_=fn_al_tt_2)._ Agnès Jaoui_._ Black & White, 27 min. 1963.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +163,7 @@ Séance VIII. La France post-sexuelle
 Séance IX. Le monde du travail
 {{< tdclose >}}
 {{< tdopen >}}
-Projection: _{{% resource_link "c92eb56f-f4cb-4ac1-840a-bf77ecfb6c82" "L'emploi du temps" %}}._ Laurent Cantet. 134 min. 2001.
+Projection: _[L'emploi du temps](http://www.imdb.com/title/tt0279065/?ref_=fn_al_tt_1)._ Laurent Cantet. 134 min. 2001.
 {{< tdclose >}}
 
 {{< trclose >}}
